@@ -1,0 +1,16 @@
+.move-box {
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;  
+    background-color: green;
+
+    animation: move;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+/* @keyframes move {
+    transform: translate(0px, 0px)S
+    
+} */
